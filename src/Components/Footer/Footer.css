@@ -25,3 +25,18 @@
     height: auto;
     margin: auto;
 }
+
+
+@media only screen and (min-width: 320px) and (max-width: 600px) {
+    .footer h2 {
+        padding-top: 20px;
+        font-size: 12pt;
+    }
+    
+    .footer a img {
+        width: 30px;
+        height: auto;
+        margin: auto;
+    }
+    
+}

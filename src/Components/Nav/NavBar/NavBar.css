@@ -1,13 +1,13 @@
-
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
 
 
  /* Extra small devices (phones, 600px and down) */
 @media only screen and (min-width: 320px) {
-    * {
-        margin: 0;
-        padding: 0;
-        box-sizing: border-box;
-    }
+    
     
     .navbar {
         position: absolute;
@@ -171,14 +171,14 @@
 
     .animationText {
         position: absolute;
-        top: 15%;
+        top: 20%;
         left: 5%;
         width: 50%;
         
     }
     
     .animationText .h1 {
-        font-size: 90%;
+        font-size: 110%;
         font-weight: bolder;
         font-family: Georgia, 'Times New Roman', Times, serif;
         color: #eaad00;
@@ -325,14 +325,14 @@
 
     .animationText {
         position: absolute;
-        top: 18%;
+        top: 25%;
         left: 5%;
-        width: 50%;
+        width: 40%;
         
     }
     
     .animationText .h1 {
-        font-size: 120%;
+        font-size: 130%;
         font-weight: bolder;
         font-family: Georgia, 'Times New Roman', Times, serif;
         color: #eaad00;
@@ -478,7 +478,7 @@
 
     .animationText {
         position: absolute;
-        top: 15%;
+        top: 25%;
         left: 5%;
         width: 50%;
         
@@ -630,7 +630,7 @@
 
 .animationText {
     position: absolute;
-    top: 15%;
+    top: 25%;
     left: 5%;
     width: 50%;
     

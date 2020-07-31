@@ -105,7 +105,7 @@
         position: relative;
         text-align: center;
         padding: 50px 30px;
-        color: #eaad00;
+        color: #f4cb55;
         transition: 0.5s;
         z-index: 1;
     }
@@ -241,7 +241,7 @@
         position: relative;
          text-align: center;
         padding: 80px 60px;
-        color: #eaad00;
+        color: #f4cb55;
         transition: 0.5s;
         z-index: 1;
     }
@@ -372,7 +372,7 @@
         position: relative;
         text-align: center;
         padding: 80px 60px;
-        color: #eaad00;
+        color: #f4cb55;
         transition: 0.5s;
         z-index: 1;
     }
@@ -501,7 +501,7 @@
         position: relative;
          text-align: center;
         padding: 100px 80px;
-        color: #eaad00;
+        color: #f4cb55;
         transition: 0.5s;
         z-index: 1;
     }
@@ -534,9 +534,8 @@
         position: relative;
         display: inline-block;
         width: 100%;
-        height: 60vh;
+        height: 700px;
         text-align: center;
-        overflow: visible;    
     }
     
     .vision > h1 {
@@ -638,7 +637,7 @@
         position: relative;
         display: inline-block;    
         padding: 100px 80px;
-        color: #eaad00;
+        color: #f4cb55;
         transition: 0.5s;
         z-index: 1;
     }
@@ -675,6 +674,7 @@
         display: inline-block;
         width: 100%;
         height: 100vh;
+        margin-bottom: 30px;
         text-align: center;
         overflow: visible;
     
@@ -779,7 +779,7 @@
         position: relative;
         display: inline-block;    
         padding: 100px;
-        color: #eaad00;
+        color: #f4cb55;
         transition: 0.5s;
         z-index: 1;
     }
